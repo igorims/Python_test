@@ -18,3 +18,7 @@ git config --global user.name #check name
 or
 git config --global user.name "Igor" #create name
 git config --global user.email ("aa@bb.email.com") #create email
+
+    after you change file, you need to: git add march_13.py again and commit againgit l
+git checkout master #most recent
+git diff #to check difference from previous commit
