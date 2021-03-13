@@ -9,3 +9,6 @@
 #see info.txt for info
 
 #added new branch
+
+def pow_func(a, b):
+    return a**b
