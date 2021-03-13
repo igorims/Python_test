@@ -9,3 +9,12 @@
 open git Bash (in the folder you need)
 git init
 git status
+git add <filename>
+git commit -m "Initial commit"
+git log (история изменений репозитория)
+git config --global
+
+git config --global user.name #check name
+or
+git config --global user.name "Igor" #create name
+git config --global user.email ("aa@bb.email.com") #create email
